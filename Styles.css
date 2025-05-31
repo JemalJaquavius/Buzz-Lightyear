@@ -1,1 +1,11 @@
-.mainTitle
+.mainTitle {
+  text-align:center;
+  border:1px solid lightgray;
+  border-style:double;
+}
+.note {
+  background-color:lightyellow;
+  border:2px solid black;
+  padding:5px;
+  margin:10px;
+}
