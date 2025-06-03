@@ -1,5 +1,5 @@
 function informationOnAndy() {
-  document.getElementById("note").innerHTML = "Andy is a human, not a toy.";
+  document.getElementByClass("note").innerHTML = "Andy is a human, not a toy.";
 }
 let x = 10;
 let y = 15;
