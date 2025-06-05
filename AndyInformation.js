@@ -13,3 +13,8 @@ const l = "Buzz Lightyear is better than every character in that exists";
 function theBigTruth() {
   document.getElementById("theBestTruth").innerHTML = l;
 }
+  let age = 18;
+  const age2 = "From the last Toy Story move i've seen, andy was ";
+function theAgeofAndy() {
+  document.getElementById("andyAge").innerHTMl = age2 + age;
+}
