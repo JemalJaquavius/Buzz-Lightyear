@@ -11,3 +11,6 @@
   width:40%;
   font-family:cursive;
 }
+.note:hover {
+  color:green;
+}
