@@ -15,6 +15,6 @@ function theBigTruth() {
 }
   let age = 18;
   const age2 = "From the last Toy Story move i've seen, andy was ";
-function theAgeofAndy() {
+function theAgeOfAndy() {
   document.getElementById("andyAge").innerHTMl = age2 + age;
 }
