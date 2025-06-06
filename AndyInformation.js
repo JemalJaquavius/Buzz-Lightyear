@@ -18,3 +18,6 @@ function theBigTruth() {
 function theAgeOfAndy() {
   document.getElementById("andyAge").innerHTMl = age2 + age;
 }
+function notEmpty() {
+  document.getElementById("empty").innerHTML = 5 + 2;
+}
